@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
+
+#: offadblock-wp.php:79
+msgid "Wait"
+msgstr "Ожидайте"
+
+#: offadblock-wp.php:80
+msgid "sec"
+msgstr "сек."
+
+#: dualon_admin.php:2
+msgid "Settings plugin offadblock-wp."
+msgstr "Настройки плагина offadblock-wp."
+
+#: dualon_admin.php:6
+msgid "Edit css files plugin."
+msgstr "Править CSS файлы плагина."
+
+#: dualon_admin.php:6
+msgid "Only for advanced users!"
+msgstr "Только для опытных пользователей!"
+
+#: dualon_admin.php:9
+msgid "Deactivate the plugin."
+msgstr "Отключить плагин."
+
+#: dualon_admin.php:15
+msgid "Message box."
+msgstr "Окно с сообщением."
+
+#: dualon_admin.php:19
+msgid "The contents of the window:"
+msgstr "Содержимое окна:"
+
+#: dualon_admin.php:40
+msgid " (Leave empty to disable the timer)"
+msgstr " (оставьте пустым для отключения таймера)"
+
+#: dualon_admin.php:39
+msgid "Screen background color"
+msgstr "Цвет фона экрана"
+
+#: dualon_admin.php:50
+msgid "Message window with timer."
+msgstr "Окно сообщения с таймером."
+
+#: dualon_admin.php:54
+msgid "The content of the window:"
+msgstr "Содержание окна:"
+
+#: dualon_admin.php:75
+msgid "Window Close Time:"
+msgstr "Время закрытия окна:"
+
+#: dualon_admin.php:154
+msgid "Hide the blocks inside the shortcodes."
+msgstr "Прятать блоки внутри шорткодов."
+
+#: dualon_admin.php:90
+msgid "The inscription on the blocks:"
+msgstr "Надпись на блоке:"
+
+#: dualon_admin.php:139
+msgid "Color of the window:"
+msgstr "Цвет фона:"
+
+#: dualon_admin.php:144
+msgid "Text color:"
+msgstr "Цвет текста:"
+
+#: dualon_admin.php:116
+msgid "Small window in the corner of the screen."
+msgstr "Маленькое окно в углу экрана."
+
+#: dualon_admin.php:119
+msgid "Use css file"
+msgstr "Использовать css файл"
+
+#: dualon_admin.php:102
+msgid "Go to the specified page."
+msgstr "Переход на заданную страницу."
+
+#: dualon_admin.php:105
+msgid "Page URL:"
+msgstr "URL страницы:"
+
+#: dualon_admin.php:142
+msgid "Save"
+msgstr "Сохранить"
+
+#: dualon_admin.php:119
+msgid "The inscription in the window:"
+msgstr "Надпись в окне"
+
+#: dualon_admin.php:199
+msgid ""
+"Show the plugin window only once a day for the user. (Does not apply to "
+"shortcodes)"
+msgstr ""
+"Показывать окно плагина один раз в день. (Не распространяется на "
+"шорткоды)"
+
+#: dualon_admin.php:83
+msgid "Set your own size for the opening window"
+msgstr "Задать свои размеры для окошек плагина"
+
+#: dualon_admin.php:86
+msgid "Window Top (%):"
+msgstr "Отступ от верхнего края (%):"
+
+#: dualon_admin.php:88
+msgid "Window Width (%):"
+msgstr "Ширина окна (%):"
+
+#: dualon_admin.php:90
+msgid "Window Height* (%):"
+msgstr "Высота окна* (%):"
+
+#: dualon_admin.php:91
+msgid " (Leave \"0\" for auto height adjustment)"
+msgstr " (Оставьте 0 для автоопределения высоты окошка)"

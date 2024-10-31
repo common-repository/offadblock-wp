@@ -1,0 +1,186 @@
+
+
+/* НАСТРОЙКИ CSS ОКНА ALERT*/
+a.button.alertab{text-decoration: none;
+padding:5px 10px 5px 10px; 
+	border: 2px solid #000; 
+background: white;    
+color: black;
+    }
+    
+a.button.alertab:active {
+	border: 2px solid #000; 
+   
+
+    background: white;
+color: black;
+    text-shadow: 1px 1px 2px white; }
+    
+a.button.alertab:hover {
+border: 2px solid #000; 
+
+color:white;
+    text-shadow: 1px 1px 2px white;
+    background: #f73737;
+     box-shadow: 0 0 1px #f73737; 
+}
+    
+a.button.smalloab{
+ position:absolute;
+    top: 0;
+    right: 0;
+    width: auto;
+    height: auto;
+	max-height: 30%;	
+max-width: 30%;	
+
+  
+font-family:'Arial Black'; font-size:24px; font-weight:bold; 
+z-index: 999999;
+-moz-user-select: -moz-none;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;	
+	padding-right: 8px;
+color: black;
+    }
+	[id^="small_alertab"] img{max-height: 100%;	
+max-width: 100%;	}
+/*LITTLE WINDOW IN THE LEFT AND DOWN*/
+[id^="small_alertab"] {
+	display:none;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+	max-height: 40%;	
+max-width: 35%;	
+	
+min-width: 25%;	
+  border: 2px solid #000; 
+z-index: 999999;
+-moz-user-select: -moz-none;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;	
+	padding: 20px;
+	overflow:auto;
+	font-size:auto;
+}
+/*BIG WINDOW*/	
+[id^="center_alertMX"] {
+	display:none;
+overflow:hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+z-index: 999999;
+
+}
+[id^="center_alertab"] img{max-height: 100%;	
+max-width: 100%;	}
+/*CENTER WINDOW*/
+[id^="center_alertab"]{
+	display:none;
+-moz-user-select: -moz-none;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;	
+
+   
+    vertical-align:bottom;
+border: 2px solid #000; 
+background: white;
+    color: black;
+    
+	 padding: 20px;
+	overflow:auto;
+top: 20%; 
+                         /* Отступ в процентах от верхнего края окна */                       /* Отступ в процентах от левого края окна */
+	width: 50%;                      /* Ширина блока */
+	height: auto;  
+max-height: 50%;	
+min-height: 40%;	
+
+    text-align:center;                 /* Выравнивание */
+	position: absolute;                /* Абсолютное позиционирование блока */
+               /* Отрицательный отступ от верхнего края страницы, должен равняться половине высоты блока со знаком минус */
+	  margin-left:25%;
+    margin-right:25%; 
+	/* Отрицательный отступ от левого края страницы, должен равняться половине высоты блока со знаком минус */
+}
+
+
+/*@media screen and (min-width:100px) and (max-width:800px) !*/
+@media screen and (min-width:100px) and (max-width:800px) {
+	[id^="small_alertab"] img{max-height: 100%;	
+max-width: 100%;	}
+	[id^="small_alertab"] {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+	max-height: 50%;	
+max-width: 60%;	
+	
+min-width: 25%;	
+  border: 2px solid #000; 
+z-index: 999999;
+-moz-user-select: -moz-none;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;	
+	padding: 20px;
+	overflow:auto;
+	font-size:auto;
+	font-size: 3vw;
+}
+	
+	
+	
+	[id^="center_alertab"]{
+-moz-user-select: -moz-none;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;	
+
+   
+    vertical-align:bottom;
+border: 2px solid #000; 
+background: white;
+    color: black;
+    
+	 padding: 20px;
+	overflow:auto;
+top: 20%; 
+                         /* Отступ в процентах от верхнего края окна */                       /* Отступ в процентах от левого края окна */
+	width: 80%;                      /* Ширина блока */
+	height: auto;  
+max-height: 70%;	
+
+
+
+font-size: 3vw;
+    text-align:center;                 /* Выравнивание */
+	position: absolute;                /* Абсолютное позиционирование блока */
+               /* Отрицательный отступ от верхнего края страницы, должен равняться половине высоты блока со знаком минус */
+	  margin-left:10%;
+    margin-right:10%; 
+	/* Отрицательный отступ от левого края страницы, должен равняться половине высоты блока со знаком минус */
+}
+[id^="center_alertab"] img{max-height: 100%;	
+max-width: 100%;	}
+	
+
+	
+}
+

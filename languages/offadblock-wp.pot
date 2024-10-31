@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+
+
+
+#: offadblock-wp.php:79
+msgid "Wait"
+msgstr ""
+#: offadblock-wp.php:80
+msgid "sec"
+msgstr ""
+
+#: dualon_admin.php:2
+msgid "Settings plugin offadblock-wp."
+msgstr ""
+
+#: dualon_admin.php:6
+msgid "Edit css files plugin."
+msgstr ""
+
+#: dualon_admin.php:6
+msgid "Only for advanced users!"
+msgstr ""
+ 
+#: dualon_admin.php:9
+msgid "Deactivate the plugin."
+msgstr ""
+
+#: dualon_admin.php:15
+msgid "Message box."
+msgstr ""
+
+#: dualon_admin.php:19
+msgid "The contents of the window:"
+msgstr ""
+
+#: dualon_admin.php:40
+msgid " (Leave empty to disable the timer)"
+msgstr ""
+
+#: dualon_admin.php:39
+msgid "Screen background color"
+msgstr ""
+
+#: dualon_admin.php:50
+msgid "Message window with timer."
+msgstr ""
+
+#: dualon_admin.php:54
+msgid "The content of the window:"
+msgstr ""
+
+#: dualon_admin.php:75
+msgid "Window Close Time:"
+msgstr ""
+
+#: dualon_admin.php:154
+msgid "Hide the blocks inside the shortcodes."
+msgstr ""
+
+#: dualon_admin.php:90
+msgid "The inscription on the blocks:"
+msgstr ""
+ 
+#: dualon_admin.php:139
+msgid "Color of the window:"
+msgstr ""
+
+#: dualon_admin.php:144
+msgid "Text color:"
+msgstr ""
+
+#: dualon_admin.php:116
+msgid "Small window in the corner of the screen."
+msgstr ""
+
+#: dualon_admin.php:119
+msgid "Use css file"
+msgstr ""
+
+#: dualon_admin.php:102
+msgid "Go to the specified page."
+msgstr ""
+
+#: dualon_admin.php:105
+msgid "Page URL:"
+msgstr ""
+
+#: dualon_admin.php:142
+msgid "Save"
+msgstr ""
+
+#: dualon_admin.php:119
+msgid "The inscription in the window:"
+msgstr ""
+
+#: dualon_admin.php:199
+msgid "Show the plugin window only once a day for the user. (Does not apply to shortcodes)"
+msgstr ""
+
+#: dualon_admin.php:83
+msgid "Set your own size for the opening window"
+msgstr ""
+
+#: dualon_admin.php:86
+msgid "Window Top (%):"
+msgstr ""
+
+
+#: dualon_admin.php:88
+msgid "Window Width (%):"
+msgstr ""
+
+#: dualon_admin.php:90
+msgid "Window Height* (%):"
+msgstr ""
+
+#: dualon_admin.php:91
+msgid " (Leave "0" for auto height adjustment)"
+msgstr ""

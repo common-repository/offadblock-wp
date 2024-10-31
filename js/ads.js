@@ -1,0 +1,2 @@
+window.noAdBlock = true;
+

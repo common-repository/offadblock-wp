@@ -1,0 +1,23 @@
+/* НАСТРОЙКИ БЛОКА ИЗ МЕНЮ ОПЦИЙ 3*/
+.offduab_block_info{
+	-moz-user-select: -moz-none;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+   /* box-shadow: 0 0 10px gray; */
+	
+   
+background: white;
+     
+    color: black;
+
+}
+.offduab_block_info table {
+padding:10px;
+ }
+ 
+ /*@media screen and (min-width:100px) and (max-width:360px) !*/
+@media screen and (min-width:100px) and (max-width:360px) 
+
+{.offduab_block_info {font-size: 3vw;}}
